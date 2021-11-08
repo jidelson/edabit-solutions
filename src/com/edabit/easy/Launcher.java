@@ -30,6 +30,10 @@ public class Launcher {
 		// ******************** FRAMES PER SECOND ********************
 				//System.out.println(FramesPerSecond.frames(10, 25));
 		
+		// ********************AddSubtractMultiplyDivide for 24********************
+		//System.out.println(AddSubtractMultiplyDivide.operation(20, 4));
+		
+		
 		
 		
 		
