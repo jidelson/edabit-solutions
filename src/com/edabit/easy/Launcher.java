@@ -27,6 +27,13 @@ public class Launcher {
 		// ******************** CHECK STRING FOR SPACES ********************
 		//System.out.println(CheckStringForSpaces.hasSpaces("Hello World"));
 		
+		// ******************** FRAMES PER SECOND ********************
+				//System.out.println(FramesPerSecond.frames(10, 25));
+		
+		
+		
+		
+		
 		}
 }
 
