@@ -33,7 +33,8 @@ public class Launcher {
 		// ********************AddSubtractMultiplyDivide for 24********************
 		//System.out.println(AddSubtractMultiplyDivide.operation(20, 4));
 		
-		
+		// ********************Slice of pie********************
+		//System.out.println(SliceOfPie.equalSlices(11, 5, 2));
 		
 		
 		
