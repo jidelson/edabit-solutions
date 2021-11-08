@@ -11,8 +11,12 @@ public class Launcher {
 //		System.out.println(ExistsANumberHigher.existsHigher(arr, n));
 		
 		// INTEGER IN RANGE
-		
 		//System.out.println(IntegerInRange.intWithinBounds(3,1,9));
+		
+		//RUBIKS
+		//System.out.println(Rubiks.howManyStickers(3));
+		
+		
 		
 		
 		}
