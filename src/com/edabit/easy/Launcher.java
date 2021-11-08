@@ -21,6 +21,9 @@ public class Launcher {
 		//System.out.println(CharToASCII.ctoa('A'));
 		
 		
+		// ******************** STRING TO INTEGER ********************
+		//System.out.println(StringToInteger.stringInt("5"));
+		
 		
 		
 		
