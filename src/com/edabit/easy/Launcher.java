@@ -24,8 +24,8 @@ public class Launcher {
 		// ******************** STRING TO INTEGER ********************
 		//System.out.println(StringToInteger.stringInt("5"));
 		
-		
-		
+		// ******************** CHECK STRING FOR SPACES ********************
+		//System.out.println(CheckStringForSpaces.hasSpaces("Hello World"));
 		
 		}
 }
