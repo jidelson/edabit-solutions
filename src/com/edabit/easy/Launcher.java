@@ -51,8 +51,11 @@ public class Launcher {
 		// ******************** Testing K^K == N? ********************
 		//System.out.println(KtoThePowerOfKEqualsN.kToK(4, 2));
 
-	
-	
+		// ******************** Case Insensitive Comparison ********************
+		//System.out.println(CaseInsensitiveComparison.match("jOe iDeLsOn", "Joe Idelson"));
+		
+		
+		
 	}
 
 	
