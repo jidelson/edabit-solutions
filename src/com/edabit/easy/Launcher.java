@@ -47,6 +47,8 @@ public class Launcher {
 		// ********************Is word plural or singular********************
 		//System.out.println(IsWordSingularOrPlural.isPlural("chairs"));
 		
+		// ******************** FREE COFFEE CUPS********************
+		//System.out.println(FreeCoffeeCups.totalCups(12));
 		
 		}
 }
