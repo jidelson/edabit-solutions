@@ -2,7 +2,6 @@ package com.edabit.easy;
 
 
 public class Launcher {
-	
 
 
 	public static void main(String[] args) {
@@ -49,10 +48,16 @@ public class Launcher {
 		// ******************** FREE COFFEE CUPS********************
 		//System.out.println(FreeCoffeeCups.totalCups(12));
 
-		}
-	
+		// ******************** Testing K^K == N? ********************
+		//System.out.println(KtoThePowerOfKEqualsN.kToK(4, 2));
 
-				
-	    }
+	
+	
+	}
+
+	
+	
+	
+	
 }
 
