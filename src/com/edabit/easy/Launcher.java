@@ -44,6 +44,9 @@ public class Launcher {
 		// ********************Radian to Degree********************
 				//System.out.println(RadianToDegree.toDegree(2));
 		
+		// ********************Is word plural or singular********************
+		//System.out.println(IsWordSingularOrPlural.isPlural("chairs"));
+		
 		
 		}
 }
