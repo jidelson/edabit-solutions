@@ -3,8 +3,7 @@ package com.edabit.easy;
 
 public class Launcher {
 	
-	
-	
+
 
 	public static void main(String[] args) {
 	// ********************EXISTS A NUMBER HIGHER********************
@@ -49,6 +48,8 @@ public class Launcher {
 		
 		// ******************** FREE COFFEE CUPS********************
 		//System.out.println(FreeCoffeeCups.totalCups(12));
+		
+	
 		
 		}
 }
