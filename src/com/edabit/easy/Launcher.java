@@ -3,6 +3,8 @@ package com.edabit.easy;
 
 public class Launcher {
 	
+	
+	
 
 	public static void main(String[] args) {
 	// ********************EXISTS A NUMBER HIGHER********************
@@ -36,7 +38,11 @@ public class Launcher {
 		// ********************Slice of pie********************
 		//System.out.println(SliceOfPie.equalSlices(11, 5, 2));
 		
+		// ********************Array Indexing********************
+		//System.out.println(ArrayIndexing.valueAt(null, 0));
 		
+		// ********************Radian to Degree********************
+				//System.out.println(RadianToDegree.toDegree(2));
 		
 		
 		}
