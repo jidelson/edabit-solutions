@@ -57,7 +57,8 @@ public class Launcher {
 		// ******************** Add a Consecutive List of Numbers ********************
 		//System.out.println(AddConsecutiveNumbers.addUpTo(10));
 		
-		
+		// ******************** 3 PROGRAMMER PROBLEM ********************
+		//System.out.println(ThreeProgrammers.programmers(147, 33, 526));
 		
 		
 		
