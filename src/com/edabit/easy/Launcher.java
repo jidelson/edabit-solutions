@@ -60,6 +60,8 @@ public class Launcher {
 		// ******************** 3 PROGRAMMER PROBLEM ********************
 		//System.out.println(ThreeProgrammers.programmers(147, 33, 526));
 		
+		// ******************** RETURN THE FACTORIAL ********************
+		System.out.println(ReturnTheFactorial.factorial(5));
 		
 		
 	}
