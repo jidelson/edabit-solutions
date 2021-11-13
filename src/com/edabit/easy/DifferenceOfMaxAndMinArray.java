@@ -25,4 +25,4 @@ public class DifferenceOfMaxAndMinArray {
 		int max = Arrays.stream(arr).max().getAsInt();
 		return max - min;
 		}
-}
+}}
